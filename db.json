@@ -1,0 +1,35 @@
+{
+    "Users": [
+        {
+            "email": "krishna@gmail.com",
+            "password": "Admin@123",
+            "role": 1
+        },
+        {
+            "email": "teja@gmail.com",
+            "password": "Admin@123",
+            "role": 2
+        },
+        {
+            "email": "admin@gmail.com",
+            "password": "Admin@123",
+            "role": 3
+        },
+        {
+            "email": "admin1@gmail.com",
+            "password": "Admin@123",
+            "role": 3
+        },
+        {
+            "email": "test1@gmail.com",
+            "password": "Admin@123",
+            "role": 3
+        },
+
+        {
+            "email": "test2@gmail.com",
+            "password": "Admin@123",
+            "role": 3
+        }
+    ]
+}
